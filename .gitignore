@@ -1,0 +1,6 @@
+# Folders
+legacy/
+
+# Compiled
+*.exe
+*.o
